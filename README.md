@@ -7,14 +7,12 @@
 ##### Esse arquivo fará com que você tenha uma cópia deste projeto para fins de estudo e teste.
 
 ## Pré-requisitos
-##### Para implementar o projeto, você precisa ter conhecimentos básicos em HTML5 e CSS3.
+##### Para implementar o projeto, você precisa ter conhecimentos básicos em HTML5, CSS e Javascript.
 
 ## Construído com
 ##### HTML5
 ##### CSS3 
-
-## Certificado do projeto - Recriando a Interface do Instagram - Digital Innovation One
-![Certificado - Digital Innovation One](https://github.com/HugoMendess/Instagram/blob/master/Recriando%20a%20p%C3%A1gina%20inicial%20do%20Instagram%20-%20Certificado.png)
+##### Javascript
 
 ## Autor
 ##### Hugo Roberto Veras Mendes - Estudante de Engenharia da Computação na Universidade Estadual do Maranhão, UEMA.
